@@ -1,0 +1,6 @@
+{
+    "proxy": "add proxy here",
+    "captcha_type": "capmonster",
+    "anticap": "anticaptcha key",
+    "capmonster": "API Key Here"
+}

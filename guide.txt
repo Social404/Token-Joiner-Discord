@@ -1,0 +1,19 @@
+Install Python from the website (NOT WINDOWS STORE)
+
+Open cmd.exe and run those commands
+
+pip install requests
+pip install anticaptchaofficial
+pip install capmonster_python
+pip install anticaptchaofficial
+pip install colorama
+
+
+Files:
+
+tokens.txt (Put your tokens)
+
+Config:
+
+- proxy: (username:password@ip:port) OR (ip:port)
+- captcha_type: "capmonster" OR "anticap"
